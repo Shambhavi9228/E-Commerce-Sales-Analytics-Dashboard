@@ -1,0 +1,6 @@
+E-Commerce Sales Analytics Dashboard KPIs
+----------------------------------------
+Total Sales: $2,297,200.86
+Total Profit: $286,397.02
+Total Orders: 5009
+Total Customers: 793
